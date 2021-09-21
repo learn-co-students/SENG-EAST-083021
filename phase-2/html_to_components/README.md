@@ -13,8 +13,9 @@
 
 
 ### Our Goal Today - How to think about react components
+[Our Wireframe & Component Hierarchy](https://drive.google.com/file/d/1JzfYT1gA3-NzDOkVcj1Q54zMdGCQEkIu/view?usp=sharing)
   - Start with Wirframe
-  - Create Component Hirarchy
+  - Create Component Hierarchy
   - Build React Components
 
 ### Break html into react components
