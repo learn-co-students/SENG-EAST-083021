@@ -1,11 +1,7 @@
 # Practice Challenge: Toy Tales
 
-- Forms (controlled inputs)
-- Information Flow 
-- Conditional Rendering
-- Destructuring => making sure you have access to the right values.
-
-- Filters or Sorting
+# Our Diagram of the Components
+- https://miro.com/app/board/o9J_luOiOwk=/
 
 
 You've got a friend in need! Again!
