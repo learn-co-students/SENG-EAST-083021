@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rating: 1
+  review: MyString
+  pet_id: 1
+  doctor_id: 1
+
+two:
+  rating: 1
+  review: MyString
+  pet_id: 1
+  doctor_id: 1
