@@ -1,0 +1,14 @@
+.home-container {
+    margin: 150px 50px;
+    padding: 50px 50px;
+}
+
+.home-btn {
+    background-color: #4cc9f0;
+    transition: 0.6s;
+}
+
+.home-btn:hover {
+    background-color: #7209b7;
+    color: white;
+}
